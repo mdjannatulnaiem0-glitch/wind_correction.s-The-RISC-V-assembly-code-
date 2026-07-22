@@ -1,6 +1,6 @@
- wind_correction.s-The-RISC-V-assembly-code-
+# wind_correction.s-The-RISC-V-assembly-code-
 complete RISC-V assembly project tailored for your GitHub. This program acts as a dedicated co-processor that offloads wind speed correction calculations from the main CPU to stabilize a drone.
-
+ ipc N
 # RISC-V Drone Wind Correction Co-Processor
 
 This is a lightweight RISC-V assembly program designed to run on a secondary low-power core or a custom hardware accelerator. It stabilizes a drone by automatically calculating wind speed correction factors, offloading this critical task from the main flight control CPU.
